@@ -1,7 +1,5 @@
 # Alan Bush
 
-al@albush.com | www.albush.com | 210.704.7319 | @alanbush
-
 I help Rackspace customers, Rackers, and the public achieve success in the cloud through one on one and one to many interactions - including direct support, videos, live presentation, blogging, and social media. 
 
 ##### Skill-set Highlights  
